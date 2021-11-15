@@ -125,3 +125,21 @@ footer p {
     color: #34F7A9;
     text-align: center;
 }
+
+@media(max-width: 400px) {
+    .img-menu {
+        display: none;
+    }
+    #contact h1 {
+        font-size: 250%;
+    }
+    #contact p {
+        font-size: 150%;
+    }
+    footer h2 {
+        font-size: 100%;
+    }
+    footer p {
+        font-size: 100%;
+    }
+}
