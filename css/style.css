@@ -59,6 +59,10 @@ header p {
     color: #34F7A9;
 }
 
+.about p {
+    font-family: 'Outfit', sans-serif;
+}
+
 .resume {
     width: 40%;
     display: inline-block;
