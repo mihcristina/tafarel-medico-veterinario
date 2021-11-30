@@ -143,6 +143,10 @@ footer p {
     .img-menu {
         display: none;
     }
+
+    header h5, header p {
+        font-size: 150%;
+    }
     #contact h1 {
         font-size: 250%;
     }
