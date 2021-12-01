@@ -147,6 +147,12 @@ footer p {
     header h5, header p {
         font-size: 190%;
     }
+    .about img {
+        margin-left: 25%;
+    }
+    .about h1, .about p, .about h2 {
+        text-align: center;
+    }
     #contact h1 {
         font-size: 250%;
     }
